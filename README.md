@@ -1,7 +1,7 @@
 # [Lapor Kampus] — Kelompok [02]
 Topik: Lapor Kampus
 Anggota:
-- [Fenzy Septia Marthanti] — [23000160]
+- [Fenzy Septia Marthanti] — [2300016071]
 - [Agustin Salsaboilla] — [2300016092]
 - [Lily Putri Andini] — [2300016107]
 
