@@ -2,7 +2,7 @@
 Topik: Lapor Kampus
 Anggota:
 - [Fenzy Septia Marthanti] — [2300016071]
-- [Agustin Salsaboilla] — [2300016092]
+- [Agustin Salsabilla] — [2300016092]
 - [Lily Putri Andini] — [2300016107]
 
 ## Cara Menjalankan
